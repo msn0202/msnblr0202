@@ -1,0 +1,30 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.container{
+	max-width: 1100px;
+	margin: auto;
+
+}
+.banner_name{
+	text-align: center;
+
+
+}
+.form_bar{
+	
+	position: relative;
+	left: 42%;
+
+}
+.login{
+	position: relative;
+	left: 42%;
+
+}
+h4{
+	font-size: 16px;
+	text-decoration: underline;
+}
+
